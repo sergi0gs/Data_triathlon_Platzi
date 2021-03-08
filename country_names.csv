@@ -1,0 +1,264 @@
+|id|id_3char|name
+0|afago|ago|Angola
+1|afbdi|bdi|Burundi
+2|afben|ben|Benin
+3|afbfa|bfa|Burkina Faso
+4|afbwa|bwa|Botswana
+5|afcaf|caf|Central African Republic
+6|afciv|civ|Cote d'Ivoire
+7|afcmr|cmr|Cameroon
+8|afcod|cod|Democratic Republic of the Congo
+9|afcog|cog|Republic of the Congo
+10|afcom|com|Comoros
+11|afcpv|cpv|Cape Verde
+12|afdji|dji|Djibouti
+13|afdza|dza|Algeria
+14|afegy|egy|Egypt
+15|aferi|eri|Eritrea
+16|afesh|esh|Western Sahara
+17|afeth|eth|Ethiopia
+18|afgab|gab|Gabon
+19|afgha|gha|Ghana
+20|afgin|gin|Guinea
+21|afgmb|gmb|Gambia
+22|afgnb|gnb|Guinea-Bissau
+23|afgnq|gnq|Equatorial Guinea
+24|afken|ken|Kenya
+25|aflbr|lbr|Liberia
+26|aflby|lby|Libya
+27|aflso|lso|Lesotho
+28|afmar|mar|Morocco
+29|afmdg|mdg|Madagascar
+30|afmli|mli|Mali
+31|afmoz|moz|Mozambique
+32|afmrt|mrt|Mauritania
+33|afmus|mus|Mauritius
+34|afmwi|mwi|Malawi
+35|afmyt|myt|Mayotte
+36|afnam|nam|Namibia
+37|afner|ner|Niger
+38|afnga|nga|Nigeria
+39|afreu|reu|Reunion
+40|afrwa|rwa|Rwanda
+41|afsdn|sdn|Sudan
+42|afsen|sen|Senegal
+43|afshn|shn|Saint Helena
+44|afsle|sle|Sierra Leone
+45|afsom|som|Somalia
+46|afssd|ssd|South Sudan
+47|afstp|stp|Sao Tome and Principe
+48|afswz|swz|Swaziland
+49|afsyc|syc|Seychelles
+50|aftcd|tcd|Chad
+51|aftgo|tgo|Togo
+52|aftun|tun|Tunisia
+53|aftza|tza|Tanzania
+54|afuga|uga|Uganda
+55|afzaf|zaf|South Africa
+56|afzmb|zmb|Zambia
+57|afzwe|zwe|Zimbabwe
+58|anata|ata|Antarctica
+59|anatf|atf|French South Antarctic Territory
+60|anbvt|bvt|Bouvet Island
+61|anhmd|hmd|Heard Island and McDonald Islands
+62|ansgs|sgs|South Georgia South Sandwich Islands
+63|asafg|afg|Afghanistan
+64|asare|are|United Arab Emirates
+65|asarm|arm|Armenia
+66|asaze|aze|Azerbaijan
+67|asbgd|bgd|Bangladesh
+68|asbhr|bhr|Bahrain
+69|asbrn|brn|Brunei
+70|asbtn|btn|Bhutan
+71|ascck|cck|Cocos (Keeling) Islands
+72|aschn|chn|China
+73|ascxr|cxr|Christmas Island
+74|ascyp|cyp|Cyprus
+75|asgeo|geo|Georgia
+76|ashkg|hkg|Hong Kong
+77|asidn|idn|Indonesia
+78|asind|ind|India
+79|asiot|iot|British Indian Ocean Territory
+80|asirn|irn|Iran
+81|asirq|irq|Iraq
+82|asisr|isr|Israel
+83|asjor|jor|Jordan
+84|asjpn|jpn|Japan
+85|askaz|kaz|Kazakhstan
+86|askgz|kgz|Kyrgyzstan
+87|askhm|khm|Cambodia
+88|askor|kor|South Korea
+89|askwt|kwt|Kuwait
+90|aslao|lao|Laos
+91|aslbn|lbn|Lebanon
+92|aslka|lka|Sri Lanka
+93|asmac|mac|Macau
+94|asmdv|mdv|Maldives
+95|asmid|mid|Midway
+96|asmmr|mmr|Burma
+97|asmng|mng|Mongolia
+98|asmys|mys|Malaysia
+99|asnpl|npl|Nepal
+100|asomn|omn|Oman
+101|aspak|pak|Pakistan
+102|asphl|phl|Philippines
+103|asprk|prk|North Korea
+104|aspse|pse|Palestine
+105|asqat|qat|Qatar
+106|assau|sau|Saudi Arabia
+107|assgp|sgp|Singapore
+108|assyr|syr|Syria
+109|astha|tha|Thailand
+110|astjk|tjk|Tajikistan
+111|astkm|tkm|Turkmenistan
+112|astls|tls|Timor-Leste
+113|astur|tur|Turkey
+114|astwn|twn|Taiwan
+115|asuzb|uzb|Uzbekistan
+116|asvnm|vnm|Vietnam
+117|asyar|yar|Yemen Arab Republic
+118|asyem|yem|Yemen
+119|asymd|ymd|Democratic Yemen
+120|eualb|alb|Albania
+121|euand|and|Andorra
+122|euaut|aut|Austria
+123|eubel|bel|Belgium
+124|eubgr|bgr|Bulgaria
+125|eubih|bih|Bosnia and Herzegovina
+126|eublr|blr|Belarus
+127|eublx|blx|Belgium-Luxembourg
+128|euche|che|Switzerland
+129|euchi|chi|Channel Islands
+130|eucsk|csk|Czechoslovakia
+131|eucze|cze|Czech Republic
+132|euddr|ddr|Democratic Republic of Germany
+133|eudeu|deu|Germany
+134|eudnk|dnk|Denmark
+135|euesp|esp|Spain
+136|euest|est|Estonia
+137|eufdr|fdr|Federal Republic of Germany
+138|eufin|fin|Finland
+139|eufra|fra|France
+140|eufro|fro|Faroe Islands
+141|eugbr|gbr|United Kingdom
+142|eugib|gib|Gibraltar
+143|eugrc|grc|Greece
+144|euhrv|hrv|Croatia
+145|euhun|hun|Hungary
+146|euimn|imn|Isle of Man
+147|euirl|irl|Ireland
+148|euisl|isl|Iceland
+149|euita|ita|Italy
+150|euksv|ksv|Kosovo
+151|eulie|lie|Liechtenstein
+152|eultu|ltu|Lithuania
+153|eulux|lux|Luxembourg
+154|eulva|lva|Latvia
+155|eumco|mco|Monaco
+156|eumda|mda|Moldova
+157|eumkd|mkd|Macedonia
+158|eumlt|mlt|Malta
+159|eumne|mne|Montenegro
+160|eunld|nld|Netherlands
+161|eunor|nor|Norway
+162|eupol|pol|Poland
+163|euprt|prt|Portugal
+164|eurou|rou|Romania
+165|eurus|rus|Russia
+166|euscg|scg|Serbia and Montenegro
+167|eusjm|sjm|Svalbard
+168|eusmr|smr|San Marino
+169|eusrb|srb|Serbia
+170|eusun|sun|USSR
+171|eusvk|svk|Slovakia
+172|eusvn|svn|Slovenia
+173|euswe|swe|Sweden
+174|euukr|ukr|Ukraine
+175|euvat|vat|Holy See (Vatican City)
+176|euyug|yug|Yugoslavia
+177|naabw|abw|Aruba
+178|naaia|aia|Anguilla
+179|naant|ant|Netherlands Antilles
+180|naatg|atg|Antigua and Barbuda
+181|nabes|bes|Bonaire
+182|nabhs|bhs|Bahamas
+183|nablm|blm|Saint Barthélemy
+184|nablz|blz|Belize
+185|nabmu|bmu|Bermuda
+186|nabrb|brb|Barbados
+187|nacan|can|Canada
+188|nacri|cri|Costa Rica
+189|nacub|cub|Cuba
+190|nacuw|cuw|Curaçao
+191|nacym|cym|Cayman Islands
+192|nadma|dma|Dominica
+193|nadom|dom|Dominican Republic
+194|nagrd|grd|Grenada
+195|nagrl|grl|Greenland
+196|nagtm|gtm|Guatemala
+197|nahnd|hnd|Honduras
+198|nahti|hti|Haiti
+199|najam|jam|Jamaica
+200|nakna|kna|Saint Kitts and Nevis
+201|nalca|lca|Saint Lucia
+202|namaf|maf|Saint Maarten
+203|namex|mex|Mexico
+204|namsr|msr|Montserrat
+205|namtq|mtq|Martinique
+206|nanaa|naa|Netherland Antilles and Aruba
+207|nanic|nic|Nicaragua
+208|napan|pan|Panama
+209|napci|pci|Pacific Island (US)
+210|napcz|pcz|Panama Canal Zone
+211|napri|pri|Puerto Rico
+212|naslv|slv|El Salvador
+213|naspm|spm|Saint Pierre and Miquelon
+214|natca|tca|Turks and Caicos Islands
+215|natto|tto|Trinidad and Tobago
+216|naumi|umi|United States Minor Outlying Islands
+217|nausa|usa|United States
+218|navct|vct|Saint Vincent and the Grenadines
+219|navgb|vgb|British Virgin Islands
+220|navir|vir|Virgin Islands
+221|ocasm|asm|American Samoa
+222|ocaus|aus|Australia
+223|occok|cok|Cook Islands
+224|ocfji|fji|Fiji
+225|ocfsm|fsm|Micronesia
+226|ocglp|glp|Guadeloupe
+227|ocgum|gum|Guam
+228|ockir|kir|Kiribati
+229|ocmhl|mhl|Marshall Islands
+230|ocmnp|mnp|Northern Mariana Islands
+231|ocncl|ncl|New Caledonia
+232|ocnfk|nfk|Norfolk Island
+233|ocniu|niu|Niue
+234|ocnru|nru|Nauru
+235|ocnzl|nzl|New Zealand
+236|ocpcn|pcn|Pitcairn Islands
+237|ocplw|plw|Palau
+238|ocpng|png|Papua New Guinea
+239|ocpyf|pyf|French Polynesia
+240|ocslb|slb|Solomon Islands
+241|octkl|tkl|Tokelau
+242|octon|ton|Tonga
+243|octuv|tuv|Tuvalu
+244|ocvut|vut|Vanuatu
+245|ocwlf|wlf|Wallis and Futuna
+246|ocwsm|wsm|Samoa
+247|saarg|arg|Argentina
+248|sabol|bol|Bolivia
+249|sabra|bra|Brazil
+250|sachl|chl|Chile
+251|sacol|col|Colombia
+252|saecu|ecu|Ecuador
+253|saflk|flk|Falkland Islands
+254|saguf|guf|French Guiana
+255|saguy|guy|Guyana
+256|saper|per|Peru
+257|sapry|pry|Paraguay
+258|sasur|sur|Suriname
+259|saury|ury|Uruguay
+260|saven|ven|Venezuela
+261|xxwld|wld|World
+262|xxxxh|xxa|Areas
